@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BBFB86982BA44C1100F63436 /* SwiftUIMarathonTask5App.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBFB86972BA44C1100F63436 /* SwiftUIMarathonTask5App.swift */; };
-		BBFB869A2BA44C1100F63436 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBFB86992BA44C1100F63436 /* ContentView.swift */; };
-		BBFB869C2BA44C1200F63436 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBFB869B2BA44C1200F63436 /* Assets.xcassets */; };
-		BBFB869F2BA44C1200F63436 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBFB869E2BA44C1200F63436 /* Preview Assets.xcassets */; };
+		BBCD15EF2BA44CEA00D036A2 /* SwiftUIMarathonTask6App.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCD15EE2BA44CEA00D036A2 /* SwiftUIMarathonTask6App.swift */; };
+		BBCD15F12BA44CEA00D036A2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBCD15F02BA44CEA00D036A2 /* ContentView.swift */; };
+		BBCD15F32BA44CEB00D036A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBCD15F22BA44CEB00D036A2 /* Assets.xcassets */; };
+		BBCD15F62BA44CEB00D036A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBCD15F52BA44CEB00D036A2 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BBFB86942BA44C1000F63436 /* SwiftUIMarathonTask5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIMarathonTask5.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BBFB86972BA44C1100F63436 /* SwiftUIMarathonTask5App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIMarathonTask5App.swift; sourceTree = "<group>"; };
-		BBFB86992BA44C1100F63436 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		BBFB869B2BA44C1200F63436 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BBFB869E2BA44C1200F63436 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BBCD15EB2BA44CEA00D036A2 /* SwiftUIMarathonTask6.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIMarathonTask6.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BBCD15EE2BA44CEA00D036A2 /* SwiftUIMarathonTask6App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIMarathonTask6App.swift; sourceTree = "<group>"; };
+		BBCD15F02BA44CEA00D036A2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		BBCD15F22BA44CEB00D036A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BBCD15F52BA44CEB00D036A2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BBFB86912BA44C1000F63436 /* Frameworks */ = {
+		BBCD15E82BA44CEA00D036A2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BBFB868B2BA44C1000F63436 = {
+		BBCD15E22BA44CEA00D036A2 = {
 			isa = PBXGroup;
 			children = (
-				BBFB86962BA44C1000F63436 /* SwiftUIMarathonTask5 */,
-				BBFB86952BA44C1000F63436 /* Products */,
+				BBCD15ED2BA44CEA00D036A2 /* SwiftUIMarathonTask6 */,
+				BBCD15EC2BA44CEA00D036A2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BBFB86952BA44C1000F63436 /* Products */ = {
+		BBCD15EC2BA44CEA00D036A2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BBFB86942BA44C1000F63436 /* SwiftUIMarathonTask5.app */,
+				BBCD15EB2BA44CEA00D036A2 /* SwiftUIMarathonTask6.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BBFB86962BA44C1000F63436 /* SwiftUIMarathonTask5 */ = {
+		BBCD15ED2BA44CEA00D036A2 /* SwiftUIMarathonTask6 */ = {
 			isa = PBXGroup;
 			children = (
-				BBFB86972BA44C1100F63436 /* SwiftUIMarathonTask5App.swift */,
-				BBFB86992BA44C1100F63436 /* ContentView.swift */,
-				BBFB869B2BA44C1200F63436 /* Assets.xcassets */,
-				BBFB869D2BA44C1200F63436 /* Preview Content */,
+				BBCD15EE2BA44CEA00D036A2 /* SwiftUIMarathonTask6App.swift */,
+				BBCD15F02BA44CEA00D036A2 /* ContentView.swift */,
+				BBCD15F22BA44CEB00D036A2 /* Assets.xcassets */,
+				BBCD15F42BA44CEB00D036A2 /* Preview Content */,
 			);
-			path = SwiftUIMarathonTask5;
+			path = SwiftUIMarathonTask6;
 			sourceTree = "<group>";
 		};
-		BBFB869D2BA44C1200F63436 /* Preview Content */ = {
+		BBCD15F42BA44CEB00D036A2 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				BBFB869E2BA44C1200F63436 /* Preview Assets.xcassets */,
+				BBCD15F52BA44CEB00D036A2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,39 +70,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BBFB86932BA44C1000F63436 /* SwiftUIMarathonTask5 */ = {
+		BBCD15EA2BA44CEA00D036A2 /* SwiftUIMarathonTask6 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BBFB86A22BA44C1200F63436 /* Build configuration list for PBXNativeTarget "SwiftUIMarathonTask5" */;
+			buildConfigurationList = BBCD15F92BA44CEB00D036A2 /* Build configuration list for PBXNativeTarget "SwiftUIMarathonTask6" */;
 			buildPhases = (
-				BBFB86902BA44C1000F63436 /* Sources */,
-				BBFB86912BA44C1000F63436 /* Frameworks */,
-				BBFB86922BA44C1000F63436 /* Resources */,
+				BBCD15E72BA44CEA00D036A2 /* Sources */,
+				BBCD15E82BA44CEA00D036A2 /* Frameworks */,
+				BBCD15E92BA44CEA00D036A2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SwiftUIMarathonTask5;
-			productName = SwiftUIMarathonTask5;
-			productReference = BBFB86942BA44C1000F63436 /* SwiftUIMarathonTask5.app */;
+			name = SwiftUIMarathonTask6;
+			productName = SwiftUIMarathonTask6;
+			productReference = BBCD15EB2BA44CEA00D036A2 /* SwiftUIMarathonTask6.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BBFB868C2BA44C1000F63436 /* Project object */ = {
+		BBCD15E32BA44CEA00D036A2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
-					BBFB86932BA44C1000F63436 = {
+					BBCD15EA2BA44CEA00D036A2 = {
 						CreatedOnToolsVersion = 15.3;
 					};
 				};
 			};
-			buildConfigurationList = BBFB868F2BA44C1000F63436 /* Build configuration list for PBXProject "SwiftUIMarathonTask5" */;
+			buildConfigurationList = BBCD15E62BA44CEA00D036A2 /* Build configuration list for PBXProject "SwiftUIMarathonTask6" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = BBFB868B2BA44C1000F63436;
-			productRefGroup = BBFB86952BA44C1000F63436 /* Products */;
+			mainGroup = BBCD15E22BA44CEA00D036A2;
+			productRefGroup = BBCD15EC2BA44CEA00D036A2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BBFB86932BA44C1000F63436 /* SwiftUIMarathonTask5 */,
+				BBCD15EA2BA44CEA00D036A2 /* SwiftUIMarathonTask6 */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BBFB86922BA44C1000F63436 /* Resources */ = {
+		BBCD15E92BA44CEA00D036A2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBFB869F2BA44C1200F63436 /* Preview Assets.xcassets in Resources */,
-				BBFB869C2BA44C1200F63436 /* Assets.xcassets in Resources */,
+				BBCD15F62BA44CEB00D036A2 /* Preview Assets.xcassets in Resources */,
+				BBCD15F32BA44CEB00D036A2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BBFB86902BA44C1000F63436 /* Sources */ = {
+		BBCD15E72BA44CEA00D036A2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BBFB869A2BA44C1100F63436 /* ContentView.swift in Sources */,
-				BBFB86982BA44C1100F63436 /* SwiftUIMarathonTask5App.swift in Sources */,
+				BBCD15F12BA44CEA00D036A2 /* ContentView.swift in Sources */,
+				BBCD15EF2BA44CEA00D036A2 /* SwiftUIMarathonTask6App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		BBFB86A02BA44C1200F63436 /* Debug */ = {
+		BBCD15F72BA44CEB00D036A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -208,7 +208,7 @@
 			};
 			name = Debug;
 		};
-		BBFB86A12BA44C1200F63436 /* Release */ = {
+		BBCD15F82BA44CEB00D036A2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -264,14 +264,14 @@
 			};
 			name = Release;
 		};
-		BBFB86A32BA44C1200F63436 /* Debug */ = {
+		BBCD15FA2BA44CEB00D036A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIMarathonTask5/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIMarathonTask6/Preview Content\"";
 				DEVELOPMENT_TEAM = SF69972TN6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -285,7 +285,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.smk.SwiftUIMarathonTask5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.smk.SwiftUIMarathonTask6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -293,14 +293,14 @@
 			};
 			name = Debug;
 		};
-		BBFB86A42BA44C1200F63436 /* Release */ = {
+		BBCD15FB2BA44CEB00D036A2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIMarathonTask5/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIMarathonTask6/Preview Content\"";
 				DEVELOPMENT_TEAM = SF69972TN6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -314,7 +314,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.smk.SwiftUIMarathonTask5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.smk.SwiftUIMarathonTask6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -325,25 +325,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BBFB868F2BA44C1000F63436 /* Build configuration list for PBXProject "SwiftUIMarathonTask5" */ = {
+		BBCD15E62BA44CEA00D036A2 /* Build configuration list for PBXProject "SwiftUIMarathonTask6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BBFB86A02BA44C1200F63436 /* Debug */,
-				BBFB86A12BA44C1200F63436 /* Release */,
+				BBCD15F72BA44CEB00D036A2 /* Debug */,
+				BBCD15F82BA44CEB00D036A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BBFB86A22BA44C1200F63436 /* Build configuration list for PBXNativeTarget "SwiftUIMarathonTask5" */ = {
+		BBCD15F92BA44CEB00D036A2 /* Build configuration list for PBXNativeTarget "SwiftUIMarathonTask6" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BBFB86A32BA44C1200F63436 /* Debug */,
-				BBFB86A42BA44C1200F63436 /* Release */,
+				BBCD15FA2BA44CEB00D036A2 /* Debug */,
+				BBCD15FB2BA44CEB00D036A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BBFB868C2BA44C1000F63436 /* Project object */;
+	rootObject = BBCD15E32BA44CEA00D036A2 /* Project object */;
 }

@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  SwiftUIMarathonTask5
+//  SwiftUIMarathonTask6
 //
 //  Created by Sergei Semko on 3/15/24.
 //
